@@ -1,12 +1,20 @@
 # real-esate
-1 Glad to share my work on a Deta Set "Real-Estate".
+1.Power BI dashboard for analyzing and visualizing real estate data
 
-2 As the Data Set containing demographic information such as "Transaction Date","House Age","Distance To The Nearest MRT Station","Number of Convenience Stores","Latitude ","Longitude " and "House Price of Unit Area"
+2.Offers insights into property listings, pricing trends, and sales performance
 
-3 This project aims to is  real estate price analysis and prediction. The goal could be to study how different factors (e.g., house age, proximity to MRT stations, number of convenience stores) impact the house price per unit area.
+3.Includes interactive filters by region, property type, and date range
 
-4 This type of data is commonly used in machine learning models for predictive analytics in real estate, helping buyers, sellers, or investors make informed decisions.
+4.Key KPIs: average price, total listings, and total sales volume
 
-5 Using POWER BI as Data Visualization tool for creating a Dash Board and performed DAX to showcase report findings.
+5.Visuals: maps, bar charts, line graphs, and pie charts for clear insights
 
-6 I had  completed my Power Bi Data Visualization project in Teks Academy ,as a part of #DataScience Course,#DataVisualization  under Ameerpet branch under Amena Zoha.
+6.Integrates data from listings, transactions, and agent performance
+
+7.Features drill-down and slicer capabilities for deeper analysis
+
+8.Helps real estate professionals make informed, data-driven decisions
+
+9.Built using Power BI Desktop
+
+10.Regularly updated with fresh market data
